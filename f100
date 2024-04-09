@@ -1,0 +1,232 @@
+a<div class="container">
+  <div class="header">
+    <span class="title">
+      IGEKU
+    </span>
+    <button class="search">
+      <img width="25" height="20" src="https://www.freepnglogos.com/uploads/search-png/search-file-ios-svg-wikimedia-commons-18.png"/>
+    </button>
+  </div>
+  <div class="content">
+    <div class="stories">
+      <div class="story">
+        <i class="fas fa-plus"></i>
+      </div>
+      <div class="story active">
+        <img src="https://assets.codepen.io/3514859/internal/avatars/users/default.png?fit=crop&format=auto&height=80&version=1566578354&width=80"/>
+      </div>
+      <div class="story">
+        <img src="https://www.skullscan.com/images/p2.jpg"/>
+      </div>
+      <div class="story active">
+        <img src="https://images.goodytech.io/images/catalog/135/20191213_15762397676291.jpeg"/>
+      </div>
+      <div class="story active">
+        <img src="https://pyxis.nymag.com/v1/imgs/f35/941/a03543092d1a1de99ef2205c98af1b7925-10-lil-miquela-lede-vertical.2x.h600.w512.jpg"/>
+      </div>
+      <div class="story">
+        <img src="https://i.pinimg.com/originals/7c/c7/a6/7cc7a630624d20f7797cb4c8e93c09c1.png"/>
+      </div>
+    </div>
+    <div class="posts">
+      <div class="post">
+        <div class="header">
+          <div class="left">
+            <img class="avatar" src="https://assets.codepen.io/3514859/internal/avatars/users/default.png?fit=crop&format=auto&height=80&version=1566578354&width=80" />
+            <div class="username">
+              <div class="name">
+                Anas Shami
+                <i class="fas fa-check-circle"></i>
+              </div>
+              <div class="tag">@ashami</div>
+            </div>
+          </div>
+          <div class="right">
+            <i class="fas fa-ellipsis-v"></i>
+          </div>
+        </div>
+        <div class="content">
+          "The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela.
+        </div>
+        <div class="footer">
+          <div class="left">
+            <div class="comments"> 
+              <i class="fas fa-comment icon"></i>
+                15
+             </div>
+            <div class="likes"> 
+              <i class="fas fa-thumbs-up icon"></i>
+                10
+             </div>
+            
+            <div class="comment"> 
+              <i class="fas fa-paper-plane icon"></i>
+             </div>
+          </div>
+          <div class="right">
+            <div class="icon">
+              <i class="fas fa-bookmark"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="post">
+        <div class="header">
+          <div class="left">
+            <img class="avatar" src="https://assets.codepen.io/3514859/internal/avatars/users/default.png?fit=crop&format=auto&height=80&version=1566578354&width=80" />
+            <div class="username">
+              <div class="name">
+                Anas Shami
+              </div>
+              <div class="tag">@awesome</div>
+            </div>
+          </div>
+          <div class="right">
+            <i class="fas fa-ellipsis-v"></i>
+          </div>
+        </div>
+        <div class="content">
+          "The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela.
+        </div>
+        <div class="footer">
+          <div class="left">
+            <div class="comments"> 
+              <i class="fas fa-comment icon"></i>
+                15
+             </div>
+            <div class="likes"> 
+              <i class="fas fa-thumbs-up icon"></i>
+                10
+             </div>
+            
+            <div class="comment"> 
+              <i class="fas fa-paper-plane icon"></i>   
+             </div>
+          </div>
+          <div class="right">
+            <div class="icon">
+              <i class="fas fa-bookmark"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="post">
+        <div class="header">
+          <div class="left">
+            <img class="avatar" src="https://assets.codepen.io/3514859/internal/avatars/users/default.png?fit=crop&format=auto&height=80&version=1566578354&width=80" />
+            <div class="username">
+              <div class="name">
+                Lol 2020
+                <i class="fas fa-check-circle"></i>
+              </div>
+              <div class="tag">@ashami</div>
+            </div>
+          </div>
+          <div class="right">
+            <i class="fas fa-ellipsis-v"></i>
+          </div>
+        </div>
+        <div class="content">
+          "The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela.
+        </div>
+        <div class="footer">
+          <div class="left">
+            <div class="comments"> 
+              <i class="fas fa-comment icon"></i>
+                15
+             </div>
+            <div class="likes"> 
+              <i class="fas fa-thumbs-up icon"></i>
+                10
+             </div>
+            
+            <div class="comment"> 
+              <i class="fas fa-paper-plane icon"></i> 
+             </div>
+          </div>
+          <div class="right">
+            <div class="icon">
+              <i class="fas fa-bookmark"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="post">
+        <div class="header">
+          <div class="left">
+            <img class="avatar" src="https://assets.codepen.io/3514859/internal/avatars/users/default.png?fit=crop&format=auto&height=80&version=1566578354&width=80" />
+            <div class="username">
+              <div class="name">
+                Anas Shami
+                <i class="fas fa-check-circle"></i>
+              </div>
+              <div class="tag">@ashami</div>
+            </div>
+          </div>
+          <div class="right">
+            <i class="fas fa-ellipsis-v"></i>
+          </div>
+        </div>
+        <div class="content">
+          <img src="https://images.unsplash.com/photo-1620895783570-6907d8715f92?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYyMjQ1MTk1NQ&ixlib=rb-1.2.1&q=85"/>
+        </div>
+        <div class="footer">
+          <div class="left">
+            <div class="comments"> 
+              <i class="fas fa-comment icon"></i>
+                15
+             </div>
+            <div class="likes"> 
+              <i class="fas fa-thumbs-up icon"></i>
+                10
+             </div>
+            
+            <div class="comment"> 
+              <i class="fas fa-paper-plane icon"></i> 
+             </div>
+          </div>
+          <div class="right">
+            <div class="icon">
+              <i class="fas fa-bookmark"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="content">
+      <div class="footer-icon active">
+        <div class="icon-container">
+          <i class="fas fa-home icon"></i>
+        </div>
+        <span class="name">Home</span>
+      </div>
+      <div class="footer-icon">
+        <div class="icon-container">
+          <i class="fas fa-comment icon"></i>
+        </div>
+        <span class="name">Messages</span>
+      </div>
+      <div class="footer-icon">
+        <div class="icon-container">
+          <i class="fas fa-plus-square icon"></i>
+        </div>
+        <span class="name"></span>
+      </div>
+      <div class="footer-icon">
+        <div class="icon-container">
+          <i class="fas fa-bell icon"></i>
+        </div>
+        <span class="name">Noftication</span>
+      </div>
+      <div class="footer-icon">
+        <div class="icon-container">
+          <i class="fas fa-user icon"></i>
+        </div>
+        <span class="name">User</span>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="credit">

@@ -5,9 +5,7 @@ Total Votes: 119
 Position: 4
 Votes left to qualify: 6
 Vote With Instagraminstagram
-I need your support! Please take a moment to cast your vote and help me reach new heights in this competition. Your vote could be the difference-maker, propelling me toward victory!
-[
-](https://littleswanaircon.com.sg/MzEyNTV0OVEwQjhhMXc=)INSTAGRAM LINK
+I need your support! Please take a moment to cast your vote and help me reach new heights in this competition. Your vote could be the difference-maker, propelling me toward victory
 1. Ashley Martinez - 156 Votes
 2. Samantha Davis - 143 Votes
 3. Madison Brown - 124 Votes
